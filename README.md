@@ -39,16 +39,10 @@ openKylin操作系统安全分析工具
 GPL-3.0
 
 ## 参考资料：
-![openKylin开源社区诊脉框架](https://gitee.com/openkylin/genmai)
-![openKylin开源社区漏洞测试用例仓库](https://gitee.com/openkylin/openkylin-exploit-db)  
-![Scripted Local Linux Enumeration & Privilege Escalation Checks](https://github.com/rebootuser/LinEnum)  
-![A Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker)  
-![Linux privilege escalation auditing tool](https://github.com/The-Z-Labs/linux-exploit-suggester) 
-
-### openKylin发行版下载地址
-https://openkylin.top/downloads  
-
-### openKylin开源社区安全治理sig组主页
-https://gitee.com/openkylin/community/tree/master/sig/SecurityGovernance
-
-  
+[openKylin开源社区诊脉框架](https://gitee.com/openkylin/genmai)  
+[openKylin开源社区漏洞测试用例仓库](https://gitee.com/openkylin/openkylin-exploit-db)    
+[Scripted Local Linux Enumeration & Privilege Escalation Checks](https://github.com/rebootuser/LinEnum)    
+[A Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker)    
+[Linux privilege escalation auditing tool](https://github.com/The-Z-Labs/linux-exploit-suggester)   
+[openKylin发行版下载地址](https://openkylin.top/downloads)    
+[openKylin开源社区安全治理sig组主页](https://gitee.com/openkylin/community/tree/master/sig/SecurityGovernance)  
