@@ -32,15 +32,15 @@ openKylin操作系统安全分析工具
 ## 预期说明：
 题目共分3个子题目，参赛者需要依次完成题目。完成数目越多，质量越高，最终得分越高。  
 题目1:   实现openKylin操作系统安全基线检查功能，并能够对基线项给出修复说明，最好能实现跨平台兼容。  
-题目2:   实现openKylin操作系统CVE安全漏洞版本号匹配检查功能，能够分析出当前操作系统中可能存在的已公开安全漏洞。
+题目2:   实现openKylin操作系统CVE安全漏洞版本号匹配检查功能，能够分析出当前操作系统中可能存在的已公开安全漏洞。  
 题目3:   实现openKylin操作系统安全漏洞POC/EXP检查功能，能够准确分析出当前操作系统中存在的已公开安全漏洞。 
 
 ## License:
 GPL-3.0
 
 ## 参考资料：
-![openKylin开源社区诊脉框架]（https://gitee.com/openkylin/genmai）  
-![openKylin开源社区漏洞测试用例仓库]（https://gitee.com/openkylin/openkylin-exploit-db）  
+![openKylin开源社区诊脉框架](https://gitee.com/openkylin/genmai)
+![openKylin开源社区漏洞测试用例仓库](https://gitee.com/openkylin/openkylin-exploit-db)  
 ![Scripted Local Linux Enumeration & Privilege Escalation Checks](https://github.com/rebootuser/LinEnum)  
 ![A Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker)  
 ![Linux privilege escalation auditing tool](https://github.com/The-Z-Labs/linux-exploit-suggester) 
