@@ -16,7 +16,8 @@ openKylin操作系统安全分析工具
 * 请遵循“2023全国大学生操作系统比赛”的章程和技术方案要求
 
 ## 项目导师：
-* 杨诏钧 yangzhaojun@kylinos.cn  
+* 杨诏钧 yangzhaojun@kylinos.cn
+* 彭欢 penghuan@kylinos.cn
 * 罗雨佳 luoyujia@kylinos.cn  
 * 宋帮诚晋 songbangchengjin@kylinos.cn
 * 陈心全 chenxinquan@kylinos.cn
