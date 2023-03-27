@@ -31,15 +31,15 @@ openKylin操作系统安全分析工具
 
 ## 预期说明：
 题目共分2个子题目，参赛者需要依次完成题目。完成数目越多，质量越高，最终得分越高。  
-题目1:   实现openKylin操作系统安全基线检查功能生成可视化报告，并能够对基线项给出对应的修复说明。    
+题目1:   实现openKylin操作系统安全配置基线检查功能生成可视化报告，并能够对基线项给出对应的修复说明。    
 题目2:   实现openKylin操作系统安全漏洞（POC/EXP）检查功能生成可视化报告，并能够准确分析出当前操作系统中存在的已公开安全漏洞。
 
 ## 评分参考
 题目一
 | 功能 | 评分 | 备注 |
 | :-----| :--- | :---- |
-| 功能一：实现系统安全基线检查 | 60 | 检查项覆盖操作系统通用安全需求,需生成可视化报告 |
-| 功能二：安全基线检查给出修复建议 | 80 | 需生成可视化报告 |
+| 功能一：实现系统安全配置基线检查 | 60 | 检查项覆盖操作系统通用安全需求(参考SCAP标准/等保安全配置基线标准),需生成可视化报告 |
+| 功能二：安全配置基线检查给出修复建议 | 80 | 需生成可视化报告 |
 | 功能三：实现基线检查项可配置 | 90 | 每项检测项可供配置，可根据配置文件/参数进行检查配置 |
 | 功能四：实现模块化、跨平台 | 100 | 检查功能要求模块化，可通过命令行、命令交互或配置文件进行插拔使用，工具能够跨平台 |
 
@@ -63,3 +63,4 @@ GPL-3.0
 [Scripted Local Linux Enumeration & Privilege Escalation Checks](https://github.com/rebootuser/LinEnum)    
 [A Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker)    
 [Linux privilege escalation auditing tool](https://github.com/The-Z-Labs/linux-exploit-suggester)
+[NIST Certified SCAP 1.2 toolkit](https://github.com/OpenSCAP/openscap)
